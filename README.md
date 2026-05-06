@@ -1,12 +1,12 @@
 # Snake Game
 
-A classic Snake game built with Java Swing.
+A classic snake game built with Java Swing.
 
 ## Features
 
 - Three difficulty levels: Easy / Normal / Hard
-- Bonus food (gold star): +30 points
-- Poison food (purple): -20 points & shortens snake
+- Bonus food: +30 points
+- Poison food: -20 points & shortens snake
 - Gradient snake body with eyes
 - Score, high score & speed display
 - Pause (P) and restart (SPACE)
