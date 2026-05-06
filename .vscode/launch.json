@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SnakeGame",
+            "request": "launch",
+            "mainClass": "SnakeGame",
+            "projectName": "SnakeGame_1cf17ad9"
+        },
+        {
+            "type": "java",
+            "name": "Run SnakeGame",
+            "request": "launch",
+            "mainClass": "SnakeGame",
+            "projectName": "SnakeGame",
+            "cwd": "D:\\SnakeGame"
+        }
+    ]
+}
